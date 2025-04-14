@@ -1,0 +1,20 @@
+1;Montana;Bucuresti;disponibila
+2;Electrica;Cluj;indisponibila
+3;Urban;Timisoara;disponibila
+4;BMX;Iasi;disponibila
+5;Folding;Constanta;imprumutata
+6;Road;Sibiu;disponibila
+7;Hybrid;Oradea;disponibila
+8;Electric;Bacau;indisponibila
+9;Kids;Ploiesti;disponibila
+10;Touring;Braila;imprumutata
+11;Mountain;Arad;disponibila
+12;Recumbent;Targu Mures;disponibila
+13;Fixie;Satu Mare;disponibila
+14;Cruiser;Baia Mare;disponibila
+15;Gravel;Suceava;disponibila
+16;Cargo;Focsani;indisponibila
+17;Cyclocross;Botosani;disponibila
+18;Triathlon;Piatra Neamt;disponibila
+19;Electric;Deva;disponibila
+20;Hybrid;Slatina;imprumutata
