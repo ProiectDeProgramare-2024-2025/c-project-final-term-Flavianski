@@ -97,10 +97,7 @@ void meniu()
                 break;
         }
     } while (optiuneMain != 7);
-
-
 }
-
 void submenuAfisare() {
     int optiuneSub;
     do {
@@ -278,11 +275,6 @@ void submenuReturnare() {
         }
     } while (optiuneSub != 0);
 }
-
-#define RED     "\033[31m"
-#define GREEN   "\033[32m"
-#define YELLOW  "\033[33m"
-#define RESET   "\033[0m"
 
 void afisareBiciclete(int doarDisponibile) {
     FILE *f = fopen("biciclete.txt", "r");
@@ -583,7 +575,7 @@ void meniuAdmin() {
     int opt;
     do {
         clearScreen();
-        printf(YELLOW "\n=== MENIU ADMIN ===\n" RESET);
+        printf(YELLOW "=== MENIU ADMIN ===\n" RESET);
         printf("1. Adauga bicicleta\n");
         printf("2. Sterge bicicleta\n");
         printf("3. Afiseaza toate bicicletele\n");
